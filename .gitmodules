@@ -1,0 +1,3 @@
+[submodule "shared-repo"]
+	path = shared-repo
+	url = ../shared-repo
